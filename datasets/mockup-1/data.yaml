@@ -1,0 +1,6 @@
+names:
+- cotton
+- soy
+nc: 2
+train: /content/drive/MyDrive/yolov5/datasets/mockup-1/train/images
+val: /content/drive/MyDrive/yolov5/datasets/mockup-1/valid/images
